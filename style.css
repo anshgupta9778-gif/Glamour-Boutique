@@ -47,6 +47,7 @@ nav a{
 
 .overlay{
     width:100%;
+    text-align:center !important;
     display:flex;
     flex-direction:column;
     align-items:center;
